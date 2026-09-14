@@ -9,7 +9,7 @@
 - Student ID: 你的學號
 
 ## Repository Description
-This repository is used to record my learning progress, assignments, and course materials for CS203A.
+Assignment I: Build Your Own GitHub Repository
 
 ## Contents
 - Assignments
