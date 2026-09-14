@@ -8,7 +8,7 @@
 - Student ID: 1141511
 
 ## Repository Description
-Assignment I: Build Your Own GitHub Repository
+This repository is used to record my learning progress for the Data Structures course.
 
 ## Contents
 - Assignments
