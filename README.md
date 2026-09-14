@@ -14,3 +14,6 @@ This repository is used to record my learning progress for the Data Structures c
 - Assignments
 - Course Notes
 - Practice
+- 
+## Links
+- [My Personal Website](https://sophia-lee1204.github.io/)
